@@ -393,7 +393,7 @@ namespace AirwaysCEO
         public const int refreshCost = 5;
         public const int buyCost = 20;
         public List<int> buyCosts = new List<int> { 0, 30, 40, 30, 30, 40, 30, 40, 50, 50 };
-        public int cash = 0;
+        public int cash = 10000000000;
         private List<Sprite> sprites;
         private TMP_Text cashDisplay;
         private Button purchaseButton;
